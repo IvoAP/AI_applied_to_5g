@@ -40,8 +40,7 @@ path_Netflix_Driving_Season3_StrangerThings = [
     r'5G - Original dataset\Netflix\Driving\Season3-StrangerThings\B_2019.11.26_13.20.42.csv',
     r'5G - Original dataset\Netflix\Driving\Season3-StrangerThings\B_2019.11.26_15.02.50.csv',
     r'5G - Original dataset\Netflix\Driving\Season3-StrangerThings\B_2019.11.27_07.29.47.csv',
-    r'5G - Original dataset\Netflix\Driving\Season3-StrangerThings\B_2019.11.27_16.33.16.csv',
-    r'5G - Original dataset\Netflix\Driving\Season3-StrangerThings\B_2019.11.27_16.33.16.xlsx'
+    r'5G - Original dataset\Netflix\Driving\Season3-StrangerThings\B_2019.11.27_16.33.16.csv'
 ]
 
 
