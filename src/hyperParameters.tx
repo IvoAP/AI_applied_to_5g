@@ -1,0 +1,16 @@
+------------------------------------- Amazon -----------------------------------------------------------
+1 -> Static Dowload:
+    - Linear Regression
+    - Random Forest Regressor Random Search (n_estimators': 473)
+    - Random Forest Regressor Grid Search (n_estimators': 1200)
+    - Support Vector Machine Grid Search ('C': 1000, 'gamma': 0.0001, 'kernel': 'linear')
+    - Neural Network FNN
+    - Neural Network MLP
+
+2 -> Static Uplad
+    - Linear Regression
+    - Random Forest Regressor Random Search (n_estimators': 706)
+    - Random Forest Regressor Grid Search (n_estimators': 1800)
+    - Support Vector Machine Grid Search ()
+    - Neural Network FNN
+    - Neural Network MLP
