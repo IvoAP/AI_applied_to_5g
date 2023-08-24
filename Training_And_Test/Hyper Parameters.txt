@@ -1,0 +1,13 @@
+ -------------------------------------------------     Amazon  Static Dataset Dowload -----------------------------------------------------------------------------
+ 1 -  Linear Regression ()
+ 2 -  Random Forest Regression Random Search (n_estimators': 473)
+ 3 -  Random Forest Regression Grid Search (n_estimators': 1200)
+ 4 -  Supert Vector Regresion Grid RSearch ('C': 1000, 'gamma': 0.0001, 'kernel': 'linear')
+ 5 -  
+
+ -------------------------------------------------     Amazon  Static Dataset Upload -----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search ()
+ 3 -  Random Forest Regression Greddy Search ()
+ 4 -  Supert Vector Regresion Random Search ()
+ 5 -  Suport Vector Regression Greddy Search ()
