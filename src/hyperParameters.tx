@@ -11,6 +11,6 @@
     - Linear Regression
     - Random Forest Regressor Random Search (n_estimators': 706)
     - Random Forest Regressor Grid Search (n_estimators': 1800)
-    - Support Vector Machine Grid Search ()
+    - Support Vector Machine Grid Search (C': 1000, 'gamma': 0.0001, 'kernel': 'rbf')
     - Neural Network FNN
     - Neural Network MLP

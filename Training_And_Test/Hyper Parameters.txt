@@ -3,11 +3,55 @@
  2 -  Random Forest Regression Random Search (n_estimators': 473)
  3 -  Random Forest Regression Grid Search (n_estimators': 1200)
  4 -  Supert Vector Regresion Grid RSearch ('C': 1000, 'gamma': 0.0001, 'kernel': 'linear')
- 5 -  
+ 5 -  MLP
 
  -------------------------------------------------     Amazon  Static Dataset Upload -----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
- 2 -  Random Forest Regression Random Search ()
- 3 -  Random Forest Regression Greddy Search ()
- 4 -  Supert Vector Regresion Random Search ()
- 5 -  Suport Vector Regression Greddy Search ()
+ 2 -  Random Forest Regression Random Search (n_estimators': 706)
+ 3 -  Random Forest Regression Grid Search (n_estimators: 1800)
+ 4 -  Suport Vector Regression Grid Search ('kernel: 'rbf)
+ 5 - MLP
+
+
+ -------------------------------------------------     Netflix Static Dataset Dowload -----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search (n_estimators': 1561)
+ 3 -  Random Forest Regression Grid Search (n_estimators': 200)
+ 4 -  Suport Vector Regression Grid Search (''kernel': 'poly')
+ 5 -  MLP
+
+ -------------------------------------------------     Netflix Static Dataset Upload-----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search ('n_estimators': 165)
+ 3 -  Random Forest Regression Grid Search ('n_estimators': 2000 )
+ 4 -  Suport Vector Regression Grid Search (kernel': 'poly')
+ 5 -  MLP
+
+ -------------------------------------------------     Netflix Driving Dataset Upload-----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search ('n_estimators': 1212)
+ 3 -  Random Forest Regression Grid Search (n_estimators': 100 )
+ 4 -  Suport Vector Regression Grid Search (kernel': 'rbf')
+ 5 -  MLP
+
+ -------------------------------------------------     Netflix Driving Dataset Dowload -----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search (n_estimators': 489)
+ 3 -  Random Forest Regression Grid Search (n_estimators': 1800 )
+ 4 -  Suport Vector Regression Grid Search (kernel': 'poly')
+ 5 -  MLP
+
+ ------------------------------------------------- Amazon Driving Dataset Dowload -----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search (n_estimators': 630)
+ 3 -  Random Forest Regression Grid Search (n_estimators': 700 )
+ 4 -  Suport Vector Regression Grid Search (kernel': 'poly')
+ 5 -  MLP
+
+
+ ------------------------------------------------- Amazon Driving Dataset Upload-----------------------------------------------------------------------------
+ 1 -  Linear Regression (Só usei Pipeline)
+ 2 -  Random Forest Regression Random Search (n_estimators': 770)
+ 3 -  Random Forest Regression Grid Search ('n_estimators': 1000 )
+ 4 -  Suport Vector Regression Grid Search (kernel': 'poly')
+ 5 -  MLP
