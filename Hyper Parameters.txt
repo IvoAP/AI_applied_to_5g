@@ -1,28 +1,28 @@
  -------------------------------------------------     Amazon  Static Dataset Dowload -----------------------------------------------------------------------------
  1 -  Linear Regression ()
- 2 -  Random Forest Regression Random Search (n_estimators': 473)
- 3 -  Random Forest Regression Grid Search (n_estimators': 1200)
+ 2 -  Random Forest Regression Random Search (n_estimators': 473) 
+ 3 -  Random Forest Regression Grid Search (n_estimators': 1200) -> Melhor
  4 -  Supert Vector Regresion Grid RSearch ('C': 1000, 'gamma': 0.0001, 'kernel': 'linear')
  5 -  MLP
 
  -------------------------------------------------     Amazon  Static Dataset Upload -----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
- 2 -  Random Forest Regression Random Search (n_estimators': 706)
- 3 -  Random Forest Regression Grid Search (n_estimators: 1800)
+ 2 -  Random Forest Regression Random Search (n_estimators': 706) 
+ 3 -  Random Forest Regression Grid Search (n_estimators: 1800) -> Melhor
  4 -  Suport Vector Regression Grid Search ('kernel: 'rbf)
  5 - MLP
 
 
  -------------------------------------------------     Netflix Static Dataset Dowload -----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
- 2 -  Random Forest Regression Random Search (n_estimators': 1561)
+ 2 -  Random Forest Regression Random Search (n_estimators': 1561) -> Melhor
  3 -  Random Forest Regression Grid Search (n_estimators': 200)
  4 -  Suport Vector Regression Grid Search (''kernel': 'poly')
  5 -  MLP
 
  -------------------------------------------------     Netflix Static Dataset Upload-----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
- 2 -  Random Forest Regression Random Search ('n_estimators': 165)
+ 2 -  Random Forest Regression Random Search ('n_estimators': 165) 
  3 -  Random Forest Regression Grid Search ('n_estimators': 2000 )
  4 -  Suport Vector Regression Grid Search (kernel': 'poly')
  5 -  MLP
@@ -43,7 +43,7 @@
 
  ------------------------------------------------- Amazon Driving Dataset Dowload -----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
- 2 -  Random Forest Regression Random Search (n_estimators': 630)
+ 2 -  Random Forest Regression Random Search (n_estimators': 630) -> Melhor
  3 -  Random Forest Regression Grid Search (n_estimators': 700 )
  4 -  Suport Vector Regression Grid Search (kernel': 'poly')
  5 -  MLP
@@ -51,7 +51,7 @@
 
  ------------------------------------------------- Amazon Driving Dataset Upload-----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
- 2 -  Random Forest Regression Random Search (n_estimators': 770)
- 3 -  Random Forest Regression Grid Search ('n_estimators': 1000 )
+ 2 -  Random Forest Regression Random Search (n_estimators': 770) -> Melhor
+ 3 -  Random Forest Regression Grid Search ('n_estimators': 1000 ) 
  4 -  Suport Vector Regression Grid Search (kernel': 'poly')
  5 -  MLP
