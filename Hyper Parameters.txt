@@ -39,7 +39,7 @@
  2 -  Random Forest Regression Random Search (n_estimators': 489)
  3 -  Random Forest Regression Grid Search (n_estimators': 1800 )
  4 -  Suport Vector Regression Grid Search (kernel': 'poly')
- 5 -  MLP ()
+ 5 -  MLP (mlp__activation': 'relu', 'mlp__alpha': 0.001, 'mlp__hidden_layer_sizes': (100, 100)) -> Os modelos do Grid Search e Randomized Search têm desempenhos semelhantes
 
  ------------------------------------------------- Amazon Driving Dataset Dowload -----------------------------------------------------------------------------
  1 -  Linear Regression (Só usei Pipeline)
